@@ -1,8 +1,12 @@
 
 body {
     font-family: 'PT Serif', serif;
+    overflow: scroll;
 }
 
+.white {
+    background: #fff !important;
+}
 .bg-yellow {
     background-color: #FFC017;
 }
